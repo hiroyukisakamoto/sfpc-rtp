@@ -3,7 +3,8 @@
 
 [Animation and Harmony](https://hiroyukisakamoto.github.io/sfpc-rtp/animation-harmony)
 
-[Computational Typography](https://hiroyukisakamoto.github.io/sfpc-rtp/computational_typography)
+[Computational Typography 01](https://hiroyukisakamoto.github.io/sfpc-rtp/computational_typography/12_oclocks)
+[Computational Typography 02](https://hiroyukisakamoto.github.io/sfpc-rtp/computational_typography/morisawa)
 
 [Patterns](https://hiroyukisakamoto.github.io/sfpc-rtp/patterns)
 
