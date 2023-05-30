@@ -8,8 +8,7 @@ function preload() {
 }
 
 function setup() {
-    const ww = 700;
-    createCanvas(ww, ww);
+    createCanvas(640, 480);
     noFill();
     strokeWeight(1);
     stroke(255);
