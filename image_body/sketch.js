@@ -9,7 +9,7 @@ function preload() {
 
 function setup() {
     const ww = 700;
-    createCanvas(ww, ww);
+    createCanvas(ww * 1.3333, ww);
 
     fill(255, 0, 0);
 
