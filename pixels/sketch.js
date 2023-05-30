@@ -1,6 +1,7 @@
 function setup() {
-    const ww = windowWidth / 3;
-    createCanvas(ww, ww);}
+    const ww = 700;
+    createCanvas(ww, ww);
+}
 
 function draw() {
     stroke(255, 255, 255);

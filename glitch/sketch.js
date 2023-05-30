@@ -4,7 +4,7 @@ let yspace = 4;
 
 function setup() {
     feed = createCapture(VIDEO);
-    const ww = windowWidth / 3;
+    const ww = 700;
     createCanvas(ww, ww);
     noFill();
     feed.hide();

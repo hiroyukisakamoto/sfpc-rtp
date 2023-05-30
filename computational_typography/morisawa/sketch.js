@@ -12,7 +12,7 @@ function preload() {
 }
 
 function setup() {
-    const ww = windowWidth / 3;
+    const ww = 700;
     createCanvas(ww, ww);
     background(255);
     textSize(width / 4);

@@ -8,7 +8,7 @@ function preload() {
 }
 
 function setup() {
-    const ww = windowWidth / 3;
+    const ww = 700;
     createCanvas(ww, ww);
 
     fill(255, 0, 0);

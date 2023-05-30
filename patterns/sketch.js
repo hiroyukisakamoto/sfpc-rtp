@@ -1,5 +1,5 @@
 function setup() {
-    const ww = windowWidth / 3;
+    const ww = 700;
     createCanvas(ww, ww);
     noStroke();
     fill(30);
