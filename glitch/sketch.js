@@ -2,12 +2,15 @@ let feed;
 let xspace = 4;
 let yspace = 4;
 
-function setup() {
+function preload() {
     feed = createCapture(VIDEO);
+    feed.hide();
+}
+
+function setup() {
     const ww = 700;
     createCanvas(ww, ww);
     noFill();
-    feed.hide();
     strokeWeight(1);
     stroke(255);
 }
