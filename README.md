@@ -9,8 +9,8 @@ Computational Typography
 [02](https://hiroyukisakamoto.github.io/sfpc-rtp/computational_typography/morisawa)
 
 Pixels
-[01](https://hiroyukisakamoto.github.io/sfpc-rtp/pixels01)
-[02](https://hiroyukisakamoto.github.io/sfpc-rtp/pixels02)
+[01](https://hiroyukisakamoto.github.io/sfpc-rtp/pixels/pixels01)
+[02](https://hiroyukisakamoto.github.io/sfpc-rtp/pixels/pixels02)
 
 [Images and Body](https://hiroyukisakamoto.github.io/sfpc-rtp/image_body)
 
